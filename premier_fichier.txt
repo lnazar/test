@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Voici le fichier dans la version à commiter
+=======
+alors je suis maintenant dans la branche master
+on va dire que c'est mon truc en prod
+
+dans la branche cassée j'ai envie de tester ici des trucs de ouf
+>>>>>>> parent of 4cb1228... avant revert
