@@ -1,7 +1,1 @@
-alors je suis maintenant dans la branche master
-on va dire que c'est mon truc en prod
-<<<<<<< HEAD
-
-dans la branche cassée j'ai envie de tester ici des trucs de ouf
-=======
->>>>>>> parent of db78dcb... prod v2
+Voici le fichier dans la version à commiter
